@@ -15,3 +15,5 @@ rm /tmp/my_first_directory/betty
 Delete the file betty. The file betty is in /tmp/my_first_directory
 rmdir /tmp/my_first_directory
 Delete the directory my_first_directory that is in the /tmp directory.
+cd -
+a script that changes the working directory to the previous one.
