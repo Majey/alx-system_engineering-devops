@@ -10,3 +10,5 @@ touch hello
  - a script that creates an empty file called hello.
 chmod 100 hello
  - a script that adds execute permission to the owner of the file hello.
+chmod 774 hello
+ - a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
