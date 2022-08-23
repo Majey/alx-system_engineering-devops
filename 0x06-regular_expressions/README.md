@@ -1,2 +1,1 @@
-# Regular expression
-Regex     DevOps
+# Regular expressions
